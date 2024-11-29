@@ -1,2 +1,2 @@
-# UMPIRE
+# Towards Unified Molecule-Enhanced Pathology Image Representation Learning via Integrating Spatial Transcriptomics
 The code and pre-training weights will be available shortly...
