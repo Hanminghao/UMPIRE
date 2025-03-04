@@ -23,11 +23,11 @@ pip install -e .
 - **03/04/2025**: Updated the pre-trained weights with [CONCH](https://github.com/mahmoodlab/CONCH), [Phikon](https://huggingface.co/owkin/phikon), and [UNI](https://github.com/mahmoodlab/UNI).
 
 ## Preparing and loading the model
-1. Request access to the model weights and example data from the Google Drive [here](https://drive.google.com/drive/folders/1K8GxOEgBwzIitUXLKQaPSmKTf-XLTZx2?usp=sharing).
+1. Request access to the model weights and example data from the [Google Drive](https://drive.google.com/drive/folders/1K8GxOEgBwzIitUXLKQaPSmKTf-XLTZx2?usp=sharing).
 
-2. Running `tokenize_downstream.py` also tokenizes the downstream data.
+2. Run `tokenize_downstream.py` to tokenize the downstream data.  
 
-3. Run `tutorial.ipynb` to learn downstream coding and t-SNE visualizations.
+3. Run `tutorial.ipynb` to learn downstream encoding and t-SNE visualization.
 
 
 ## Reference
