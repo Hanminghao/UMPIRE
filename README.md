@@ -23,7 +23,7 @@ pip install -e .
 - **03/04/2025**: Updated the pre-trained weights with [CONCH](https://github.com/mahmoodlab/CONCH), [Phikon](https://huggingface.co/owkin/phikon), and [UNI](https://github.com/mahmoodlab/UNI).
 
 ## Preparing and loading the model
-1. Request access to the model weights and example data from the [Google Drive](https://drive.google.com/drive/folders/1K8GxOEgBwzIitUXLKQaPSmKTf-XLTZx2?usp=sharing).
+1. Request access to the model weights and example data from [Google Drive](https://drive.google.com/drive/folders/1K8GxOEgBwzIitUXLKQaPSmKTf-XLTZx2?usp=sharing).
 
 2. Run `tokenize_downstream.py` to tokenize the downstream data.  
 
