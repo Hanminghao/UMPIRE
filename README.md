@@ -22,6 +22,16 @@ pip install -e .
 
 - **03/04/2025**: Updated the pre-trained weights with [CONCH](https://github.com/mahmoodlab/CONCH), [Phikon](https://huggingface.co/owkin/phikon), and [UNI](https://github.com/mahmoodlab/UNI).
 
+## To-do-list
+
+- [x] Upload the tokenize code.
+- [x] Upload the inference code.
+- [x] Upload the pretrained model checkpoint.
+- [ ] Upload the full pre-trained code after the receipt of the article.
+- [ ] Open source VisTomic-4M after the receipt of the article.
+
+
+
 ## Preparing and loading the model
 1. Request access to the model weights and example data from [Google Drive](https://drive.google.com/drive/folders/1K8GxOEgBwzIitUXLKQaPSmKTf-XLTZx2?usp=sharing).
 
