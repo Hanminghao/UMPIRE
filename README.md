@@ -43,10 +43,6 @@ pip install -e .
 ## Reference
 If you find our work useful in your research or if you use parts of this code please consider citing our [paper](https://arxiv.org/abs/2412.00651):
 
-Han, M., Yang, D., Cheng, J., Zhang, X., Qu, L., Chen, Z., & Zhang, L. (2024). Towards Unified Molecule-Enhanced Pathology Image Representation Learning via Integrating Spatial Transcriptomics. arXiv preprint arXiv:2412.00651.
-
-
-
 ```
 @article{han2024towards,
   title={Towards Unified Molecule-Enhanced Pathology Image Representation Learning via Integrating Spatial Transcriptomics},
